@@ -120,6 +120,11 @@ img.contact2{
     height: 25%;
 }
 
+.fees{
+    width: 250px;
+    height: 250px;
+}
+
 img.Vtop
 {
 vertical-align:top;
@@ -298,7 +303,11 @@ background-repeat:no-repeat;
 border-radius:25px;
 }
 
-.red, .blue, .yellow, .purple, .DeepPink, .Aqua, .green, .DeepPink{
+.lunch_menu{
+    width:80%;
+    height: 900px;
+}
+.red, .blue, .yellow, .purple, .DeepPink, .Aqua, .green, .DeepPink, .orange{
     font-size: 2.2vw;
 }
 /*link colors for nav bar*/
