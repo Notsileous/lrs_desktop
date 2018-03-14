@@ -12,7 +12,7 @@ background-size: cover;
 /*layout code*/
 .header_img{
     width:100%;
-    height:190px; 
+    height:200px; 
 }
 
 nav
@@ -24,7 +24,7 @@ position:absolute;
 font-family: 'Permanent Marker', cursive;
 font-size: 30px;
 text-align:center;
-line-height:37px;
+line-height:47px;
 }
 
 section
